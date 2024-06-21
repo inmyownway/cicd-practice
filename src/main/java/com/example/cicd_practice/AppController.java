@@ -12,3 +12,4 @@ public class AppController {
         return "good, world";
     }
 }
+// sudo fuser -k -n tcp 8080
